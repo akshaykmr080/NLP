@@ -1,0 +1,4 @@
+from limerick import LimerickDetector
+code = LimerickDetector()
+
+
